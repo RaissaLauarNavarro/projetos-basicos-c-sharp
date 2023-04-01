@@ -1,0 +1,7 @@
+C:\Users\codeB\source\repos\Projetinhos\Projeto8\obj\Debug\Projeto8.csproj.AssemblyReference.cache
+C:\Users\codeB\source\repos\Projetinhos\Projeto8\obj\Debug\Projeto8.csproj.CoreCompileInputs.cache
+C:\Users\codeB\source\repos\Projetinhos\Projeto8\bin\Debug\Projeto8.exe.config
+C:\Users\codeB\source\repos\Projetinhos\Projeto8\bin\Debug\Projeto8.exe
+C:\Users\codeB\source\repos\Projetinhos\Projeto8\bin\Debug\Projeto8.pdb
+C:\Users\codeB\source\repos\Projetinhos\Projeto8\obj\Debug\Projeto8.exe
+C:\Users\codeB\source\repos\Projetinhos\Projeto8\obj\Debug\Projeto8.pdb

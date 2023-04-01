@@ -1,0 +1,7 @@
+C:\Users\codeB\source\repos\Projetinhos\Projeto9\obj\Debug\Projeto9.csproj.AssemblyReference.cache
+C:\Users\codeB\source\repos\Projetinhos\Projeto9\obj\Debug\Projeto9.csproj.CoreCompileInputs.cache
+C:\Users\codeB\source\repos\Projetinhos\Projeto9\bin\Debug\Projeto9.exe.config
+C:\Users\codeB\source\repos\Projetinhos\Projeto9\bin\Debug\Projeto9.exe
+C:\Users\codeB\source\repos\Projetinhos\Projeto9\bin\Debug\Projeto9.pdb
+C:\Users\codeB\source\repos\Projetinhos\Projeto9\obj\Debug\Projeto9.exe
+C:\Users\codeB\source\repos\Projetinhos\Projeto9\obj\Debug\Projeto9.pdb
